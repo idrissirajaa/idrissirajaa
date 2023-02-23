@@ -3,6 +3,6 @@ I'm Rajaa and this is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Salesforce
-- 💬 &nbsp;Ask me about anything related to Typescript/Python or Angular/Django/Spring
+- 💬 &nbsp;Ask me about anything related to Typescript/Python/Java or Angular/Django/Spring
 - 👨‍💻 &nbsp;Connect to know more about my projects 
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and handball :hand:
